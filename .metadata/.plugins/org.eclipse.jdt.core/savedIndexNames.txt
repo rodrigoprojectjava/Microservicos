@@ -2,7 +2,6 @@ INDEX VERSION 1.134+C:\Users\rodri\Documents\Projetos\Trabalhadores\.metadata\.p
 2058773561.index
 3906737058.index
 4043489196.index
-3380018556.index
 2445624507.index
 1656487259.index
 3286185677.index
